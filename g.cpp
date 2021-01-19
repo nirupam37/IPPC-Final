@@ -1,5 +1,4 @@
 #include <iostream>
-
 #define endl '\n'
 #define pi acos(-1)
 #define pii pair<int,int>
