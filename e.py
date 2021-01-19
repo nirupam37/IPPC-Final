@@ -10,3 +10,4 @@ while (i<a):
     print("Case",i+1,end="")
     print(":",sum)
     i+=1
+    
